@@ -1,0 +1,17 @@
+{
+"companyName": "Golan",
+"productName": "SMIT VT",
+"productVersion": "1.0",
+"dataUrl": "VT_1.data.unityweb",
+"wasmCodeUrl": "VT_1.wasm.code.unityweb",
+"wasmFrameworkUrl": "VT_1.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "VT_1.jpg",
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.1.10f1"
+}
